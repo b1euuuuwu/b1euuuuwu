@@ -4,6 +4,7 @@
   
   - 📱 Currently learning mobile development
   - 🖥️ I’m interested in the field of cyber security and cloud technology
+  - 🤓 Part of OMAHTI Cyber Security
   - 📫 Reach me thru linkedIn: [LinkedIn](https://www.linkedin.com/in/almas-mirzandi-ramadhan-1bbb66211/)
 
 <!---
