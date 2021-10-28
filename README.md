@@ -1,6 +1,6 @@
-👋  Hi, My name is Almas!
+👋 	 	Hi, My name is Almas!
 
-😎  I am a first year CS Undergrad, with interests in a variety of fields in IT
+😎  	I am a first year CS Undergrad, with interests in a variety of fields in IT
   
   - 📱  Currently learning mobile development
   - 🖥️  I’m interested in the field of cyber security and cloud technology
