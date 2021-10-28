@@ -4,7 +4,7 @@
   
   - 📱 Currently learning mobile development
   - 🖥️ I’m interested in the field of cyber security and cloud technology
-  - 📫 Reach me thru linkedIn: [LinkedIn](linkedin.com/in/almas-mirzandi-ramadhan-1bbb66211)
+  - 📫 Reach me thru linkedIn: [LinkedIn](https://www.linkedin.com/in/almas-mirzandi-ramadhan-1bbb66211/)
 
 <!---
 almasmirzandir/almasmirzandir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
