@@ -2,7 +2,7 @@
 
 😎  	I am a first year CS Undergrad, with interests in a variety of fields in IT
   
-  - 📱    Currently learning mobile development (React Native) on the side & SQL
+  - 📈   Currently learning SQL for data analytics
   - 🖥️    I’m interested in the field of cloud computing and data analytics
   - 🤓		Member of OMAHTI Cyber Security
   - 📫    Reach me thru linkedIn: [LinkedIn](https://www.linkedin.com/in/almas-mirzandi-ramadhan-1bbb66211/)
