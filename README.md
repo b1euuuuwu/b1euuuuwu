@@ -6,6 +6,7 @@
   - 🖥️    I’m interested in the field of cloud computing and data analytics
   - 🤓		Member of OMAHTI Cyber Security
   - 📫    Reach me thru linkedIn: [LinkedIn](https://www.linkedin.com/in/almas-mirzandi-ramadhan-1bbb66211/)
+  - 📄    Check out my [CV](https://b1euuuuwu.github.io/resume-website/)
 
 <!---
 almasmirzandir/almasmirzandir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
