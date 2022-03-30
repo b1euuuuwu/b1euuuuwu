@@ -2,8 +2,7 @@
 
 😎  	I am a first year CS Undergrad, with interests in a variety of fields in IT
   
-  - 📈   Currently learning SQL for data analytics
-  - 🖥️    I’m interested in the field of cloud computing and data analytics
+  - 🖥️    I’m interested in the field of data analytics and software engineering
   - 🤓		Member of OMAHTI Cyber Security
   - 📫    Reach me thru linkedIn: [LinkedIn](https://www.linkedin.com/in/almas-mirzandi-ramadhan-1bbb66211/)
   - 📄    Check out my [Resume](https://b1euuuuwu.github.io/resume-website/)
