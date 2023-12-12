@@ -1,6 +1,6 @@
 👋 	 	Hi, My name is Almas!
 
-😎  	I am a second year CS Undergrad, with interests in a variety of fields in IT
+😎  	I am a third year CS Undergrad, with interests in a variety of fields in IT
   
   - 🖥️    I’m interested in the field of data analytics and software engineering
   - 🤓		Member of OMAHTI Cyber Security
